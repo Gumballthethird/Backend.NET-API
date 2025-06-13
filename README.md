@@ -1,5 +1,8 @@
 # Backend.NET-API
 
+Name : Muhammad Fahim Aiman Bin Mohamad Firdaus
+Backend .NET Developer Assessment
+
 - After extracting, go to the directory where the project is stored in Command Prompt
 - type "dotnet ef migrations add InitialCreate --project FreelancerApp.Infrastructure --startup-project FreelancerApp.Api"
 - If migrations already exist then ignore

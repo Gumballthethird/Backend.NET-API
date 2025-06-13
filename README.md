@@ -11,3 +11,19 @@ Name : Muhammad Fahim Aiman Bin Mohamad Firdaus
 - type "dotnet build"
 - type "dotnet run"
 - Can test using Swagger UI using "http://localhost:XXXX/swagger/index.html" for the functionalities
+
+JSON Payload/ Example (POST)
+{
+  "username": "nathan_drake",
+  "email": "nathan.drake@example.com",
+  "phoneNumber": "012-1031789",
+  "skillsets": [
+    { "name": "C#" },
+    { "name": "ASP.NET Core" },
+    { "name": "SQL" }
+  ],
+  "hobbies": [
+    { "name": "Photography" },
+    { "name": "Cycling" }
+  ]
+}
